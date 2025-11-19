@@ -1,0 +1,11 @@
+<gresources>
+  <gresource prefix="/org">
+    <file>icons/select-xtemplates-file.png</file>
+    <file>icons/open-xtemplate.png</file>
+    <file>icons/new-xtemplate.png</file>
+    <file>icons/delete-xtemplate.png</file>
+    <file>icons/display-hardcoded-xtemplates.png</file>
+    <file>icons/display-hardcoded-xtemplates-disabled.png</file>
+    <file>icons/clear-filtering.png</file>
+  </gresource>
+</gresources>
